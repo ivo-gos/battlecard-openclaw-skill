@@ -2,6 +2,8 @@
 
 Know your competitor's weaknesses before the call starts. Practice your pitch against an AI buyer who fights back. Capture what you learn after every deal.
 
+[![battlecard MCP server](https://glama.ai/mcp/servers/ivo-gos/battlecard-openclaw-skill/badges/card.svg)](https://glama.ai/mcp/servers/ivo-gos/battlecard-openclaw-skill)
+
 ## Try it now
 
 ```bash
