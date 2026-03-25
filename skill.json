@@ -23,5 +23,11 @@
     "signup_url": "https://battlecard.northr.ai/signup",
     "free_tier": true,
     "free_tier_description": "4 battle cards, 2 text simulations, 1 voice simulation. No signup. No API key."
+  },
+  "openclaw": {
+    "requires": {
+      "env": ["BATTLECARD_API_KEY"]
+    },
+    "primaryEnv": "BATTLECARD_API_KEY"
   }
 }
