@@ -1,0 +1,9 @@
+{
+  "name": "battlecard",
+  "description": "Competitive intelligence MCP server. Battle cards, sales simulations, and objection handlers for any company vs any competitor.",
+  "url": "https://battlecard.northr.ai/mcp",
+  "transport": "streamable-http",
+  "author": "Northr AI",
+  "homepage": "https://battlecard.northr.ai",
+  "tags": ["sales", "competitive-intelligence", "battle-cards", "simulations"]
+}
