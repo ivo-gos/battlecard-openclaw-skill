@@ -1,7 +1,7 @@
 {
   "name": "battlecard-competitive-intelligence",
   "title": "Battlecard: Competitive Intelligence",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "description": "Know your competitor's weaknesses before the call. Practice your pitch against an AI buyer. Capture intel after every deal. 11 tools for sales teams. Free tier, no signup needed.",
   "author": "northr-ai",
   "homepage": "https://battlecard.northr.ai",
@@ -15,6 +15,7 @@
   ],
   "mcp": {
     "url": "https://battlecard.northr.ai/mcp",
+    "free_tier_url": "https://battlecard.northr.ai/mcp/preview",
     "transport": "sse"
   },
   "auth": {
