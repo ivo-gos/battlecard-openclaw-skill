@@ -1,6 +1,7 @@
 {
   "name": "battlecard",
-  "description": "Competitive intelligence MCP server. Battle cards, sales simulations, and objection handlers for any company vs any competitor.",
+  "maintainers": ["ivo-gos"],
+  "description": "Battle cards and scored practice calls against an AI buyer, for any company vs any competitor. From Battlecard: score every call, rehearse every gap.",
   "url": "https://battlecard.northr.ai/mcp/preview",
   "transport": "streamable-http",
   "author": "Northr AI",
